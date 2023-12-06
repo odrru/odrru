@@ -4,7 +4,7 @@
 * 🔭 I'm currently exploring data analysis, scientific computing and creative coding.
 * 🔥 I'm interested in music production, bitcoin as a technology, and building construction.
 * 🏗️ I'm a structural engineer, and
-* 🌍 I'm super excited to connect with you!
+* 🌍 I'm super excited to connect!
 <!--
 **odrru/odrru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
