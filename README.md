@@ -1,10 +1,12 @@
 ### Hello 👋
 * 👨🏾‍💻 I'm Oduru.
 * 🐍 I speak Python.
-* 🔭 I'm currently exploring data analysis, scientific computing and creative coding.
-* 🔥 I'm interested in music production, bitcoin as a money tech, and buildings.
+* 🔭 I'm currently exploring;
+* 📊 data analysis,
+* 🧪 scientific computing and,
+* 🎭 creative coding.
 * 🏗️ I'm a structural engineer, and
-* 🌍 I'm super excited to connect!
+* 🌍 I'm excited to connect!
 <!--
 **odrru/odrru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
