@@ -2,7 +2,7 @@
 * 👨🏾‍💻 I'm Oduru.
 * 🐍 I speak Python.
 * 🔭 I'm currently exploring data analysis, scientific computing and creative coding.
-* 🔥 I'm interested in music production, bitcoin as a technology, and building construction.
+* 🔥 I'm interested in music production, bitcoin as a money tech, and buildings.
 * 🏗️ I'm a structural engineer, and
 * 🌍 I'm super excited to connect!
 <!--
