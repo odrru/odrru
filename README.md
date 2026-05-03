@@ -2,7 +2,7 @@
 * 🔭 I'm currently exploring;
 * 📊 data analysis,
 * 🧪 scientific computing and,
-* 🎭 vibecoding.
+* 🎭 vibecoding useful tools for myself.
 * 🌍 I'm excited to connect!
 <!--
 **odrru/odrru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
